@@ -1,0 +1,140 @@
+header{
+   border: 0 solid  white; 
+   display: flex;
+    float: left;
+    margin-right: 10px;
+    border-radius: 5px;
+
+
+}
+.logo{
+    display: flex;
+    width: 1100px;
+    height: 80px;
+    align-items: flex-start;
+}
+ul{
+    display: flex;
+}
+ul li{
+    margin: 4px;
+    list-style: none;
+}
+.our_services{
+    display: flex; 
+    border: 1px solid black;
+    width: 1900px;
+    height: 900px;
+    flex-direction: column;
+    
+     
+}
+.services_tex{
+    display: flex; 
+    justify-content: left;
+    justify-content: space-around; 
+    
+}
+.services_tex{
+    align-items: center;
+    list-style: lower-roman;
+}
+.services_list{
+    display: flex;
+    float: none;
+    width: 900px;
+    height: 300px;
+    border: 1px solid;
+
+}
+.services_li_1{
+    /* display: flex; */
+    /* padding: 10px; */
+    justify-content: left;
+   align-items: flex-start;
+}
+.Learn{
+    display: flex;
+    justify-content: center;
+    width: 200px;
+    
+    border: 5px solid #458FF6;
+    border-radius: 55px;
+    align-items: center;
+    border-radius: 15px;
+    margin-left: 50% ;
+    
+}
+.providers{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid white;
+     
+
+}
+.text{
+    display: flex
+    align-items: center;
+    justify-content: center;
+     
+}
+
+.providers_text{
+    /* display: flex; */
+    border: 1px solid rgb(248, 243, 243);
+    text-decoration: underline;
+    width: 486px;
+    height: 388px;
+    left: 922px;
+    top: 2375px;
+    justify-content: center;
+    justify-content: space-around;
+    /* justify-items: right ; */
+
+}
+.Learn_more{
+    display: flex;
+    width: 150px;
+    height: 30px;
+    border: 1px solid rgb(12, 12, 236);
+    border-radius: 5px ;
+    justify-content: center;
+    font-style: normal;
+    background-color: white;
+    margin-left: 50%;
+}
+.downlaod{
+    display: flex;
+    
+}
+.Downlaod{
+    display: flex;
+    border: 1px solid blue;
+    width: 120px;
+    height: 40px;
+    margin-left: 50%;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px;
+}
+.testimonials{
+    /* display: flex; */
+    border: 1px solid blue;
+    background-color: blue;
+    width: 1219.58px;
+    height: 502px;
+    left: 190px;
+     top: 3709px;
+    border-radius: 15px;
+    justify-content: center;
+    
+}
+.customer{
+    display: flex;
+    text-align: center;
+    align-items: center;
+}
+.testimonials_logo{
+    border-radius: 50%;
+
+}
